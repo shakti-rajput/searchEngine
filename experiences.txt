@@ -1,0 +1,4 @@
+All the queries worked as expected
+querying snow literally made the snow on the screen
+but i was able to prevent code injections but used a trick.
+Overall it was a fun exercise.
